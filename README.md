@@ -1,5 +1,4 @@
 # 价格公平约束下的鲁棒定价
-## Robust Pricing under Distributional Uncertainty
 
 本项目研究**分布不确定环境下、带价格公平约束的差异化定价问题**，对应本科毕业论文：
 
@@ -377,6 +376,7 @@ seaborn
 
 **“当价格差异受到严格限制后，企业是否仍愿意服务所有群体？”**
 
+---
 
 # Robust Pricing under Distributional Uncertainty
 
